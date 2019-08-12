@@ -1,4 +1,4 @@
-const WXBizDataCrypt = require('')
+const WXBizDataCrypt = require('./WXBizDataCrypt')
 const axios = require('axios')
 
 const token = {
